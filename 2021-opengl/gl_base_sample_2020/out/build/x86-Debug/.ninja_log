@@ -1,0 +1,5 @@
+# ninja log v5
+0	1670	643887587	CMakeFiles/gl_base_sample_2020.dir/glad.c.obj	311f61dc1cb05b8b
+10	1760	643887587	CMakeFiles/gl_base_sample_2020.dir/stb_image.cpp.obj	39193c866502cb19
+7	1944	643887587	CMakeFiles/gl_base_sample_2020.dir/ShaderProgram.cpp.obj	c037c8c5e39f9fdd
+5	1970	643887587	CMakeFiles/gl_base_sample_2020.dir/main.cpp.obj	8d7ce675712f7bfc
